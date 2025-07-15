@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mohan:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-07-15T17:02:21.781906714Z"
+    description: A Helm chart for Kubernetes
+    digest: f12c466a39c137521406d0b76a25ab2fc420dc5e55418e75532635a9a7bd151d
+    name: mohan
+    type: application
+    urls:
+    - mohan-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-15T17:02:21.781027381Z"
